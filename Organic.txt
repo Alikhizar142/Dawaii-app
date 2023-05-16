@@ -1,0 +1,10 @@
+activated charcoal;300;60
+johar joshanda sachet;20;100
+tooth rus pieces;50;300
+toothsiah syrup bottle;100;50
+herbion ispaghol;60;320
+hiclean water purific;90;360
+herbion verona plus;80;360
+herbaloil;5000;200
+hashmi ispaghol sachet;120;360
+plasaline inf piece;150;360

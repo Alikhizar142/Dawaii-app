@@ -1,0 +1,10 @@
+Victorinox swis;450;20
+Victorinox Alox;320;14
+Dettol Solution;150;32
+Dettol Cleaner ;400;60
+KN95 Mask Piece;450;50
+Mospel Repelent;60;20
+Beurer For Back;125;30
+Saniplast Packs;50;100
+MG Body Massage;1000;20
+Heating Pad MG9;650;40

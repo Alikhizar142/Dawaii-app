@@ -1,0 +1,7 @@
+Parodontax org;200;48
+Prodent Tpaste;300;20
+Foltn hair men;120;50
+Fltn hair women;400;20
+Hair life caps;250;10
+cas l day cream;300;15
+fair_lovely;200;20

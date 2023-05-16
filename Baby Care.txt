@@ -1,0 +1,10 @@
+Morinaga BF-1;650;50
+Morinafa BF-3;700;30
+Pediasure;900;50
+Baby balm;80;60
+Nestle NAN-1;240;80
+Similac total 2;650;32
+baby lotion;100;50
+baby soap;120;30
+baby wipes;200;50
+pampers;780;50
